@@ -7,12 +7,12 @@
 
 Life can feel overwhelming. But it doesn’t have to. 
 
-A Simple To-do app design in flutter to keep track of your task on daily basis. You can add project, labels and due-date to your tasks
+A Simple To-do app designed with Flutter to keep track of your tasks on a daily basis. You can add projects, labels and due-date to your tasks. 
 
 
 ## Features
 
-- Build on [**BLoC**](#bloc-diagram) Architecture Pattern
+- Built on [**BLoC**](#bloc-diagram) Architecture Pattern
 - Add [**Projects**](#project) by specifying a unique color to it
 - Add [**Labels**](#labels) by specifying a unique color to it
 - Add [**Task**](#task) by defining its priority
@@ -21,7 +21,7 @@ A Simple To-do app design in flutter to keep track of your task on daily basis. 
 - Works offline using [**Sqflite**](https://github.com/tekartik/sqflite "Flutter Database") database
 
 ## BLoC Diagram
-This diagram show case the dependencies to create a feature specific BLoCs.The HomeBloc is independent and used as communication channel between its child widgets.
+This diagram showcases the dependencies to create a feature specific Blocs. The HomeBloc is independent and used as a communication channel between its child widgets.
 
 ![](https://i.imgur.com/byajGE7.png)
 
